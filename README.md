@@ -15,7 +15,8 @@ head final_matrix.txt | less -S
 ```
 Output:
 
-gene    A11_S11_rsem.genes.results      A1_S1_rsem.genes.results        A2_S2_rsem.genes.results        A3_S3_rsem.genes.results        A4_S2_rsem.genes.result
+gene   |  A11_S11_rsem.genes.results  |    A1_S1_rsem.genes.results   |     A2_S2_rsem.genes.results   |     A3_S3_rsem.genes.results   |     A4_S2_rsem.genes.result  
+-------------------|---------------------|-----------------------|-----------------------|----------------------------|----------------------------
 ENSG00000000003.14      0.00    167.43  56.45   0.00    12.43   0.00    39.06   129.35  34.94   6.04    40.76   82.66   0.00    65.24   88.31   156.17  97.71
 ENSG00000000005.5       0.00    0.00    0.00    0.00    9.90    0.00    0.00    0.00    11.76   0.00    0.00    8.94    0.00    0.00    0.00    23.68   0.00
 ENSG00000000419.12      0.00    57.70   116.06  0.00    109.99  0.00    64.33   5.73    30.35   29.17   0.00    120.22  0.00    32.01   155.11  137.24  37.32
